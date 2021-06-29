@@ -1,0 +1,29 @@
+2
+2
+Chemistry
+Metal
+Cl
+O
+H
+Fe
+4
+Choose formula Water 
+H20
+02
+NaCl
+Ag2O
+1
+2
+Geograpy
+Choose right Capital
+Oslo
+Odessa
+Ibiza
+Kursk
+1
+Reykyavvik is Capital of
+U.S.A
+Azerbaijan
+Islandiya
+Irlandiya
+3

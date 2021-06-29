@@ -1,0 +1,8 @@
+﻿  Source.cpp
+D:\Tetris\Proverka\Proverka\Source.cpp(15,23): warning C4309: инициализация: усечение константного значения
+D:\Tetris\Proverka\Proverka\Source.cpp(16,23): warning C4309: инициализация: усечение константного значения
+D:\Tetris\Proverka\Proverka\Source.cpp(35,16): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+D:\Tetris\Proverka\Proverka\Source.cpp(35,19): warning C4838: Преобразование из "int" в "SHORT" требует сужающего преобразования.
+D:\Tetris\Proverka\Proverka\Source.cpp(888,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+Source.obj : error LNK2001: неразрешенный внешний символ "__imp_PlaySoundW"
+D:\Tetris\Proverka\x64\Release\Proverka.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
